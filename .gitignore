@@ -3,3 +3,4 @@ debug
 *.exe
 *.toml
 res
+*.sum
