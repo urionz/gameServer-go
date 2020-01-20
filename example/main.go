@@ -15,8 +15,8 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/matchvs/gameServer-go"
-	"github.com/matchvs/gameServer-go/example/app"
+	matchvs "github.com/urionz/gameServer-go"
+	"github.com/urionz/gameServer-go/example/app"
 )
 
 //程序函数入口

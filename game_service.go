@@ -10,15 +10,16 @@
 package matchvs
 
 import (
-	"commonlibs/errors"
-	"commonlibs/servers"
 	"os"
 	"strings"
 
-	conf "github.com/matchvs/gameServer-go/src/config"
-	"github.com/matchvs/gameServer-go/src/defines"
-	"github.com/matchvs/gameServer-go/src/log"
-	"github.com/matchvs/gameServer-go/src/message"
+	"github.com/urionz/gameServer-go/commonlibs/errors"
+	"github.com/urionz/gameServer-go/commonlibs/servers"
+
+	conf "github.com/urionz/gameServer-go/config"
+	"github.com/urionz/gameServer-go/defines"
+	"github.com/urionz/gameServer-go/log"
+	"github.com/urionz/gameServer-go/message"
 )
 
 var (
